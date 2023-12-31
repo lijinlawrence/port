@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', 'sans-serif';
+}
+
+
+.banner{
+    background-image: url(/images/banner\ background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 220px 0 ;
+}
+
+.section3{
+    padding: 50px 0;
+}
